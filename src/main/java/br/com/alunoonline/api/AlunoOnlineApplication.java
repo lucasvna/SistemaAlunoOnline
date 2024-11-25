@@ -9,5 +9,5 @@ public class AlunoOnlineApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AlunoOnlineApplication.class, args);
 	}
-
+// comment
 }
