@@ -110,9 +110,6 @@ public class MatriculaAlunoService {
             disciplinasAlunoResponse.setNota1(matriculaAluno.getNota1());
             disciplinasAlunoResponse.setNota2(matriculaAluno.getNota2());
 
-            // não quero isso nesse método, MAS eu (prof) vou fazer
-            // se possível, reutilize o método de calcula média acima
-            // refatore ele.
 
             if (matriculaAluno.getNota1() != null && matriculaAluno.getNota2() != null) {
                 disciplinasAlunoResponse.setMedia((matriculaAluno.getNota1() + matriculaAluno.getNota2()) / 2.0);

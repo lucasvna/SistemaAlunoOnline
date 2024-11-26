@@ -22,7 +22,7 @@ public class Professor implements Serializable {
 
     private String nome;
 
-    private String cpf;
-
     private String email;
+
+    private String cpf;
 }
