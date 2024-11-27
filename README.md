@@ -1,6 +1,6 @@
 # Sistema de Aluno Online
 
-Este projeto é um sistema de gestão acadêmica desenvolvido em **Java** com **Spring Framework**. Ele permite gerenciar alunos, professores, disciplinas e matrículas. Com uma arquitetura RESTful e integração com **Swagger** para documentação, o sistema utiliza **PostgreSQL** como banco de dados.
+Sistema de gestão acadêmica desenvolvido em **Java** com **Spring Framework**. É possível gerenciar alunos, professores, disciplinas e matrículas. Desenvolvido com arquitetura RESTful, integração com **Swagger** para documentação, e **PostgreSQL** como banco de dados.
 
 ---
 
@@ -18,7 +18,7 @@ Este projeto é um sistema de gestão acadêmica desenvolvido em **Java** com **
 - Associar um professor a várias disciplinas.
 
 ### Disciplinas
-- **CRUD completo**.
+- Criar disciplinas.
 - Associar alunos e professores.
 
 ### Matrículas
